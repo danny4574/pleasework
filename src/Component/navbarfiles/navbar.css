@@ -1,0 +1,26 @@
+.navbar img{
+    width: 70px;
+    height:70px;
+}
+.navbar{
+    background-color: burlywood;
+    
+}
+.nav-link{
+    color: white;
+}
+.navbar-toggler-icon{
+    background-color: burlywood !important;
+    color: white !important;
+}
+.navbar-toggler{
+    margin-right: 50px !important;
+}
+.navbar-collapse{ 
+    text-decoration: none;
+    color: black;
+}
+.nav-item{
+    text-decoration: none !important;
+    
+}
